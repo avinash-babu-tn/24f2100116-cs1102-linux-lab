@@ -1,7 +1,5 @@
 # About Me
-My name is T.N.Avinash Babu and I am a B.S., Electronic Systems student.
-I have done my schooling at Bharath Senior Secondary School, Chennai and
-Krishnamal Ramasubbaiyer School, Madurai.
-Currently I am also regular student of B.E., Electrical and Electronics
-Engineering at Thiagarajar College of Engineering, Madurai.
+My name is T.N.Nithish. I am currently studying 9th standard in
+SRWWO Matriculation School, Madurai. My brother name is Avinash Babu T.N.
+and he created this bio for me.
 
