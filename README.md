@@ -1,7 +1,15 @@
-# About Me
-My name is T.N.Avinash Babu and I am a B.S., Electronic Systems student.
-I have done my schooling at Bharath Senior Secondary School, Chennai and
-Krishnamal Ramasubbaiyer School, Madurai.
-Currently I am also regular student of B.E., Electrical and Electronics
-Engineering at Thiagarajar College of Engineering, Madurai.
+# AVINASH BABU T.N.
+## Bio
+* My name is T.N. Avinash Babu born on 26th May 2006
+* I have done my schooling at:
+	1. Bharath Senior Secondary School, Chennai
+	2. Krishnamal Ramasubbaiyer School, Madurai
+* Currently, I am a regular B.E., student at Thiagarajar College of Engineering, Madurai
+* My major is Electrical and Electronics Engineering
+
+I also know programming:
+`
+def first_function():
+	print("Hello World")
+`
 
